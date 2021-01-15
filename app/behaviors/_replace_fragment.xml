@@ -1,0 +1,4 @@
+<view style="Button"
+      xmlns="https://hyperview.org/hyperview">
+  <text style="Button__Label">Replaced!</text>
+</view>
